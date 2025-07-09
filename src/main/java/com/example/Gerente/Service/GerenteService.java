@@ -44,4 +44,5 @@ public class GerenteService {
         }
         gerenteRepository.deleteById(id);
     }
+    
 }
